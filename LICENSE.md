@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS top App: snapshot-rollback & performance-boost, the #1 app. Includes snapshot-rollback and performance-boost for a smoother macOS
 
 
 
